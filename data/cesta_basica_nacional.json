@@ -1,0 +1,17 @@
+{
+  "itens": [
+    { "nome": "Carne", "quantidade": 6.0, "unidade": "kg" },
+    { "nome": "Leite", "quantidade": 15.0, "unidade": "l" },
+    { "nome": "Feijão", "quantidade": 4.5, "unidade": "kg" },
+    { "nome": "Arroz", "quantidade": 3.0, "unidade": "kg" },
+    { "nome": "Farinha", "quantidade": 1.5, "unidade": "kg" },
+    { "nome": "Batata", "quantidade": 6.0, "unidade": "kg" },
+    { "nome": "Legumes (Tomate)", "quantidade": 9.0, "unidade": "kg" },
+    { "nome": "Pão francês", "quantidade": 6.0, "unidade": "kg" },
+    { "nome": "Café em pó", "quantidade": 0.6, "unidade": "kg" },
+    { "nome": "Frutas (Banana)", "quantidade": 90, "unidade": "unid" },
+    { "nome": "Açúcar", "quantidade": 3.0, "unidade": "kg" },
+    { "nome": "Banha/Óleo", "quantidade": 1.5, "unidade": "kg" },
+    { "nome": "Manteiga", "quantidade": 0.9, "unidade": "kg" }
+  ]
+}
